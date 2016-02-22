@@ -1,0 +1,28 @@
+name: Left Of Frame Pictures
+favicon: null
+layout_spectrum: 0.6134113993030041
+typography_spectrum: 0.9290756550617516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.918932301690802
+  lightness: 0.8679186305962503
+  saturation: 0.4781276313588023
+  rhythmicContrast: 0.9085902934893966
+purpose: []
